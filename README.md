@@ -6,4 +6,4 @@ This is First GIt Repo
 
 <br>
 
-changes madde
+changes made
